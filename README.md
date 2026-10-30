@@ -1,3 +1,20 @@
+# ReverseLab
+
+**ReverseLab** is Arun Prasath J's customised edition of [REA: Reverse Engineer Anything](https://github.com/morluto/rea) by [morluto](https://github.com/morluto).
+
+> [!NOTE]
+> ReverseLab is an independent copy maintained at [jarunprasath/REA_](https://github.com/jarunprasath/REA_). It is **not** the official REA project and is not affiliated with or endorsed by morluto.
+> For the official release, use [morluto/rea](https://github.com/morluto/rea), [rea.tools](https://rea.tools/) or the [`rea-agents` npm package](https://www.npmjs.com/package/rea-agents).
+
+- **Original work:** REA, Copyright (c) 2026 morluto, MIT licence (see [LICENSE](LICENSE)).
+- **Third-party components:** keep their own licences; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [`licenses/`](licenses/).
+- **Responsible use:** see [DISCLAIMER.md](DISCLAIMER.md).
+- **ReverseLab changes:** tracked in this repository's commit history.
+
+Internally the tool still uses the upstream command and package names (`rea`, `rea-agents`); a `reverselab` command alias is also provided when installed from this source. The upstream documentation follows below unchanged.
+
+---
+
 <div align="center">
 
 **English** · [简体中文](docs/readme/README_zh.md) · [繁體中文](docs/readme/README_zh-TW.md) · [日本語](docs/readme/README_ja.md) · [한국어](docs/readme/README_ko.md) · [Türkçe](docs/readme/README_tr.md) · [Русский](docs/readme/README_ru.md) · [Tiếng Việt](docs/readme/README_vi.md) · [ไทย](docs/readme/README_th.md) · [Deutsch](docs/readme/README_de.md) · [Español](docs/readme/README_es.md) · [Français](docs/readme/README_fr.md) · [Українська](docs/readme/README_uk.md) · [Polski](docs/readme/README_pl.md) · [Português (Brasil)](docs/readme/README_pt-BR.md) · [العربية](docs/readme/README_ar.md) · [فارسی](docs/readme/README_fa.md) · [Bahasa Indonesia](docs/readme/README_id.md) · [Italiano](docs/readme/README_it.md)

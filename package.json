@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/morluto/rea.git"
+    "url": "git+https://github.com/jarunprasath/REA_.git"
   },
-  "homepage": "https://github.com/morluto/rea#readme",
+  "homepage": "https://github.com/jarunprasath/REA_#readme",
   "bugs": {
-    "url": "https://github.com/morluto/rea/issues"
+    "url": "https://github.com/jarunprasath/REA_/issues"
   },
   "keywords": [
     "reverse-engineering",
@@ -22,6 +22,7 @@
     "model-context-protocol",
     "static-analysis",
     "rea",
+    "reverselab",
     "decompiler",
     "mcp",
     "hopper",
@@ -40,7 +41,8 @@
   },
   "bin": {
     "rea": "scripts/rea.mjs",
-    "rea-agents": "scripts/rea.mjs"
+    "rea-agents": "scripts/rea.mjs",
+    "reverselab": "scripts/rea.mjs"
   },
   "engines": {
     "node": "^22.23.4 || ^24.22.1 || >=26.12.1"
