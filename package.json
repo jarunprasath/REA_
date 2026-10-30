@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarunprasath/REA_.git"
+    "url": "git+https://github.com/jarunprasath/ReverseLab.git"
   },
-  "homepage": "https://github.com/jarunprasath/REA_#readme",
+  "homepage": "https://github.com/jarunprasath/ReverseLab#readme",
   "bugs": {
-    "url": "https://github.com/jarunprasath/REA_/issues"
+    "url": "https://github.com/jarunprasath/ReverseLab/issues"
   },
   "keywords": [
     "reverse-engineering",

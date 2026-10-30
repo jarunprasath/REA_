@@ -3,7 +3,7 @@
 **ReverseLab** is Arun Prasath J's customised edition of [REA: Reverse Engineer Anything](https://github.com/morluto/rea) by [morluto](https://github.com/morluto).
 
 > [!NOTE]
-> ReverseLab is an independent copy maintained at [jarunprasath/REA_](https://github.com/jarunprasath/REA_). It is **not** the official REA project and is not affiliated with or endorsed by morluto.
+> ReverseLab is an independent copy maintained at [jarunprasath/ReverseLab](https://github.com/jarunprasath/ReverseLab). It is **not** the official REA project and is not affiliated with or endorsed by morluto.
 > For the official release, use [morluto/rea](https://github.com/morluto/rea), [rea.tools](https://rea.tools/) or the [`rea-agents` npm package](https://www.npmjs.com/package/rea-agents).
 
 - **Original work:** REA, Copyright (c) 2026 morluto, MIT licence (see [LICENSE](LICENSE)).
